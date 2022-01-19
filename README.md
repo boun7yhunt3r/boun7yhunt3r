@@ -39,7 +39,7 @@ I write articles on python and data manipulation techniques.Currently i am doing
 </br>
 
 
-## 🔧 Langueages & Tools
+## 🔧 Languages & Tools
 <p align='left'>
   <img src="https://github.com/boun7yhunt3r/boun7yhunt3r.github.io/blob/main/python.png" alt="python" width="40" height="40">
   <img src='https://github.com/boun7yhunt3r/boun7yhunt3r.github.io/blob/main/800px-Jupyter_logo.png' alt="jupyter notebook" width="40" height="40">
