@@ -53,10 +53,10 @@ I write articles on python and data manipulation techniques.Currently i am doing
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boun7yhunt3r&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 <a href="https://github.com/boun7yhunt3r/boun7yhunt3r">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=boun7yhunt3r&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Aashima's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=boun7yhunt3r&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Aravind's GitHub Stats" />
 </a>
 <a href="https://github.com/boun7yhunt3r/boun7yhunt3r">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AashimaAhuja&repo=Masonary&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=boun7yhunt3r&repo=Masonary&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
