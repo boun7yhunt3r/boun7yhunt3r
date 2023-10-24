@@ -1,24 +1,5 @@
 # Hi there 👋, I'm Aravind!
 
-<p align="center">
-  <a href="https://github.com/boun7yhunt3r">
-    <img src="https://github.com/boun7yhunt3r/boun7yhunt3r/blob/main/Aravind%20R%20K.png?raw=true" alt="Aravind R K" width="140" height="140">
-  </a>
-</p>
-
-I'm a passionate data science enthusiast who loves to find insights in data through Python, machine learning and data visualization.
-
-<details open>
-<summary>🔎 Check out my work</summary>
-<br>
-
-[![Project 1](https://github.com/boun7yhunt3r/project1/blob/main/project1.png?raw=true)](https://github.com/boun7yhunt3r/project1)
-**[Project 1: Food Vision](https://github.com/boun7yhunt3r/project1)** - Used computer vision to classify food images by cuisine with 90% accuracy. Built with PyTorch and Flask.
-
-[![Project 2](https://github.com/boun7yhunt3r/project2/blob/main/project2.png?raw=true)](https://github.com/boun7yhunt3r/project2) 
-**[Project 2: Crypto Forecaster](https://github.com/boun7yhunt3r/project2)** - Developed LSTM models to predict cryptocurrency prices. Achieved 82% directional accuracy on test data.
-
-**Check out more exciting projects on [my website](https://boun7yhunt3r.github.io)**
 
 </details>
 
