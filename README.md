@@ -112,7 +112,7 @@ class Aravind:
 
 ## 🏆 Professional Experience
 
-### 🚀 **Current: DLR** *(June 2024 - Present)*
+### 🚀 **Current: DLR** *(Sept 2023 - Present)*
 *German Aerospace Center - Stuttgart, Germany*
 
 **Key Achievements:**
@@ -121,7 +121,7 @@ class Aravind:
 - 🤖 Real-time streaming from industrial robots using **OPC UA**
 - 🏗️ Built scalable data pipelines with **FastAPI + Docker**
 
-### 🏎️ **Porsche Engineering** *(May 2023 - July 2023)*
+### 🏎️ **Porsche Engineering** *(May 2023 - Aug 2023)*
 *Hochvolt Lademanagement - Praktikant*
 
 - ⚡ **20% improvement** in battery testing code deployment
