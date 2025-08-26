@@ -112,7 +112,7 @@ class Aravind:
 
 ## 🏆 Professional Experience
 
-### 🚀 **Current: Scientific Researcher @ DLR** *(June 2024 - Present)*
+### 🚀 **Current: DLR** *(June 2024 - Present)*
 *German Aerospace Center - Stuttgart, Germany*
 
 **Key Achievements:**
