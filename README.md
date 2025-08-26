@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About Me
 
-Hey there! I'm Aravind, a **Data Scientist** and **Industrial IoT Specialist** currently working at **Deutsches Zentrum für Luft- und Raumfahrt (DLR)** in Stuttgart. With 8+ years of experience spanning from IoT analytics at Infosys to cutting-edge research in additive manufacturing, I specialize in building end-to-end data solutions that bridge the gap between complex industrial systems and actionable insights.
+Hey there! I'm Aravind, a **Data Scientist** and **Industrial IoT Specialist** currently working at **Deutsches Zentrum für Luft- und Raumfahrt (DLR)** in Stuttgart. With 5+ years of experience spanning from IoT analytics at Infosys to cutting-edge research in additive manufacturing, I specialize in building end-to-end data solutions that bridge the gap between complex industrial systems and actionable insights.
 
 ```python
 class Aravind:
