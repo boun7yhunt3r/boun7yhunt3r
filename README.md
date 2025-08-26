@@ -154,8 +154,7 @@ class Aravind:
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=boun7yhunt3r&theme=tokyonight)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=boun7yhunt3r)](https://git.io/streak-stats)
 </div>
 
 ## 🏆 Featured Projects & Research
